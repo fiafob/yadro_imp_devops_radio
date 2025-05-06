@@ -5,7 +5,7 @@
 * Записывать её в файл hello.txt в домашней директории.
 * Выводить содержимое файла на экран.
 ```bash
-$ echo "Hello, DevOps\!" > hello.txt && cat hello.txt
+$ echo "Hello, DevOps\!" > ~/hello.txt && cat ~/hello.txt
 ```
 
 ## Напишите команду в Linux, которая будет:

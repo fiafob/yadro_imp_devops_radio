@@ -16,3 +16,5 @@ $ echo "Hello, DevOps\!" > ~/hello.txt && cat ~/hello.txt
 ```bash
 $ grep -E "error" /var/log/syslog | head -n5
 ```
+
+### Задания 4 и 5 представлены отдельными файлами

@@ -14,5 +14,5 @@ $ echo "Hello, DevOps\!" > hello.txt && cat hello.txt
 * Выводить 5 первых совпавших с шаблоном строк.
 Это нужно сделать одной командой, используя конвейеры (pipes).
 ```bash
-$ grep -E "error" /var/log/syslog 2>/dev/null | head -n5
+$ grep -E "error" /var/log/syslog | head -n5
 ```
